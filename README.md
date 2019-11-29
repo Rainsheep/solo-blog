@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Linux连接Shadowsocks教程](https://www.rainsheep.top/articles/2019/11/27/1574834487620.html)
+* [ ss国内服务器中转教程](https://www.rainsheep.top/articles/2019/11/27/1574832516527.html)
 * [利用solo搭建个人博客](https://www.rainsheep.top/articles/2019/11/26/1574768448759.html)
 
 
