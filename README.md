@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Chrome浏览器插件下载](https://www.rainsheep.top/articles/2019/12/12/1576159594449.html)
 * [Chrome始终开启flash](https://www.rainsheep.top/articles/2019/12/11/1576047589725.html)
 * [青春不再](https://www.rainsheep.top/articles/2019/12/06/1575562594149.html)
 * [我在 GitHub 上的开源项目](https://www.rainsheep.top/my-github-repos)
@@ -29,7 +30,6 @@
 * [容斥定理](https://www.rainsheep.top/articles/2019/12/04/1575440265389.html)
 * [素数判断](https://www.rainsheep.top/articles/2019/12/04/1575440129024.html)
 * [分解质因子](https://www.rainsheep.top/articles/2019/12/04/1575440099127.html)
-* [矩形的交面积](https://www.rainsheep.top/articles/2019/12/04/1575440043701.html)
 
 ### 热门
 
@@ -40,8 +40,8 @@
 * [秋水ss四合一脚本](https://www.rainsheep.top/articles/2019/12/03/1575384979104.html)
 * [ 牛客多校第五场-平均绩点（二分）](https://www.rainsheep.top/articles/2019/12/03/1575384407094.html)
 * [牛客多校第五次-J题-plan](https://www.rainsheep.top/articles/2019/12/03/1575384722059.html)
-* [ 最长回文串长度模板](https://www.rainsheep.top/articles/2019/12/03/1575378105229.html)
 * [Centos6.5搭建网站（tomcat服务器）](https://www.rainsheep.top/articles/2019/12/02/1575295932463.html)
+* [ 最长回文串长度模板](https://www.rainsheep.top/articles/2019/12/03/1575378105229.html)
 * [基于CentOS 6.5 Server - 64 Bit搭建ss](https://www.rainsheep.top/articles/2019/12/02/1575296686709.html)
 * [office2019安装级激活教程](https://www.rainsheep.top/articles/2019/12/02/1575297996107.html)
 * [Windows10右键添加“在此处打开命令窗口”](https://www.rainsheep.top/articles/2019/12/03/1575342092041.html)
@@ -52,10 +52,11 @@
 * [GitHub使用教程详解——官网操作指南](https://www.rainsheep.top/articles/2019/12/03/1575344137526.html)
 * [Trie树（Prefix Tree）介绍](https://www.rainsheep.top/articles/2019/12/03/1575379107462.html)
 * [ss的simple-obfs混淆客户端设置](https://www.rainsheep.top/articles/2019/12/04/1575431723992.html)
-* [Emmet的HTML语法](https://www.rainsheep.top/articles/2019/12/03/1575342660935.html)
+* [win10安全模式进入方法](https://www.rainsheep.top/articles/2019/12/04/1575431965656.html)
 
 ### 热议
 
+* [Emmet的HTML语法](https://www.rainsheep.top/articles/2019/12/03/1575342660935.html)
 * [zzulioj 2127 tmk射气球](https://www.rainsheep.top/articles/2019/12/03/1575345658197.html)
 * [HDU 4544 湫湫系列故事——消灭兔子](https://www.rainsheep.top/articles/2019/12/03/1575345854198.html)
 * [zzuli 2129 DOBRI](https://www.rainsheep.top/articles/2019/12/03/1575346502036.html)
@@ -75,7 +76,6 @@
 * [高精度运算](https://www.rainsheep.top/articles/2019/12/03/1575351504012.html)
 * [高精度模板](https://www.rainsheep.top/articles/2019/12/03/1575370537367.html)
 * [HUD 1041 Computer Transformation](https://www.rainsheep.top/articles/2019/12/03/1575372412637.html)
-* [stl-vector](https://www.rainsheep.top/articles/2019/12/03/1575372810901.html)
 
 ---
 
