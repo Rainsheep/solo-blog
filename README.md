@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [Ubuntu最小化所有窗口](https://www.rainsheep.cn/articles/2020/07/17/1594959812671.html)
+* [Ubuntu16.04安装微信](https://www.rainsheep.cn/articles/2020/07/17/1594953338426.html)
+* [ubuntu中vim键盘无法正常使用](https://www.rainsheep.cn/articles/2020/07/17/1594948392242.html)
 * [优启通添加软件](https://www.rainsheep.cn/articles/2020/06/23/1592902650423.html)
 * [制作启动盘失败](https://www.rainsheep.cn/articles/2020/06/23/1592852337356.html)
 * [PageHelper 使用方法](https://www.rainsheep.cn/articles/2020/03/31/1585595975549.html)
@@ -27,9 +30,6 @@
 * [mybatis 学习笔记](https://www.rainsheep.cn/articles/2020/03/06/1583434614785.html)
 * [Centos 搭建 redis](https://www.rainsheep.cn/articles/2020/03/02/1583150597818.html)
 * [Maven 学习笔记](https://www.rainsheep.cn/articles/2020/03/01/1583043885121.html)
-* [redis 学习笔记](https://www.rainsheep.cn/articles/2020/03/01/1582997924952.html)
-* [JSON 学习笔记](https://www.rainsheep.cn/articles/2020/02/29/1582959918244.html)
-* [Ajax 学习笔记](https://www.rainsheep.cn/articles/2020/02/29/1582959858110.html)
 
 ### 热门
 
