@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [添加普通用户到 sudo 组](https://www.rainsheep.cn/articles/2020/07/20/1595241149790.html)
+* [Ubuntu中sudo和su免密码设置](https://www.rainsheep.cn/articles/2020/07/20/1595228564416.html)
+* [Ubuntu安装Chrome教程](https://www.rainsheep.cn/articles/2020/07/20/1595228124635.html)
 * [Ubuntu最小化所有窗口](https://www.rainsheep.cn/articles/2020/07/17/1594959812671.html)
 * [Ubuntu16.04安装微信](https://www.rainsheep.cn/articles/2020/07/17/1594953338426.html)
 * [ubuntu中vim键盘无法正常使用](https://www.rainsheep.cn/articles/2020/07/17/1594948392242.html)
@@ -27,9 +30,6 @@
 * [SpringMVC 学习笔记](https://www.rainsheep.cn/articles/2020/03/10/1583771477763.html)
 * [Linux 学习笔记](https://www.rainsheep.cn/articles/2020/03/09/1583763466425.html)
 * [Spring 学习笔记](https://www.rainsheep.cn/articles/2020/03/08/1583653357274.html)
-* [mybatis 学习笔记](https://www.rainsheep.cn/articles/2020/03/06/1583434614785.html)
-* [Centos 搭建 redis](https://www.rainsheep.cn/articles/2020/03/02/1583150597818.html)
-* [Maven 学习笔记](https://www.rainsheep.cn/articles/2020/03/01/1583043885121.html)
 
 ### 热门
 
