@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [solo导出静态站点](https://www.rainsheep.cn/articles/2020/07/29/1596030733146.html)
+* [毕业论文](https://www.rainsheep.cn/articles/2020/07/29/1596030101076.html)
+* [github加速教程](https://www.rainsheep.cn/articles/2020/07/29/1596029533938.html)
 * [flex布局](https://www.rainsheep.cn/articles/2020/07/26/1595731170747.html)
 * [添加普通用户到 sudo 组](https://www.rainsheep.cn/articles/2020/07/20/1595241149790.html)
 * [Ubuntu中sudo和su免密码设置](https://www.rainsheep.cn/articles/2020/07/20/1595228564416.html)
@@ -27,9 +30,6 @@
 * [Vue 学习笔记](https://www.rainsheep.cn/articles/2020/03/18/1584528972534.html)
 * [Git 学习笔记](https://www.rainsheep.cn/articles/2020/03/13/1584091376522.html)
 * [V2Ray+WebSocket+TLS+Nginx](https://www.rainsheep.cn/articles/2020/03/11/1583901747768.html)
-* [ssm 整合](https://www.rainsheep.cn/articles/2020/03/11/1583867371280.html)
-* [SpringMVC 学习笔记](https://www.rainsheep.cn/articles/2020/03/10/1583771477763.html)
-* [Linux 学习笔记](https://www.rainsheep.cn/articles/2020/03/09/1583763466425.html)
 
 
 
