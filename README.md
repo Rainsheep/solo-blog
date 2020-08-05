@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [Ubuntu图形化root用户登录](https://www.rainsheep.cn/articles/2020/08/03/1596470334604.html)
+* [IDEA 调试详解](https://www.rainsheep.cn/articles/2020/08/03/1596469028910.html)
+* [JS数组删除](https://www.rainsheep.cn/articles/2020/08/03/1596468040040.html)
 * [双系统时间错误](https://www.rainsheep.cn/articles/2020/08/03/1596467689894.html)
 * [Ubuntu常用快捷键总结](https://www.rainsheep.cn/articles/2020/08/03/1596467461918.html)
 * [IntelliJ IDEA问题汇总](https://www.rainsheep.cn/articles/2020/08/03/1596467189591.html)
@@ -27,9 +30,6 @@
 * [ubuntu中vim键盘无法正常使用](https://www.rainsheep.cn/articles/2020/07/17/1594948392242.html)
 * [优启通添加软件](https://www.rainsheep.cn/articles/2020/06/23/1592902650423.html)
 * [制作启动盘失败](https://www.rainsheep.cn/articles/2020/06/23/1592852337356.html)
-* [PageHelper 使用方法](https://www.rainsheep.cn/articles/2020/03/31/1585595975549.html)
-* [Java 格式化显示金额](https://www.rainsheep.cn/articles/2020/03/31/1585591249751.html)
-* [微信小程序学习笔记](https://www.rainsheep.cn/articles/2020/03/27/1585322624228.html)
 
 
 
