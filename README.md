@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Ubuntu 安装 JDK](https://www.rainsheep.cn/articles/2020/08/06/1596727913960.html)
+* [修改ubuntu中文文件夹为英文](https://www.rainsheep.cn/articles/2020/08/06/1596727254928.html)
 * [Ubuntu 安装 mysql](https://www.rainsheep.cn/articles/2020/08/06/1596726982689.html)
 * [Ubuntu图形化root用户登录](https://www.rainsheep.cn/articles/2020/08/03/1596470334604.html)
 * [IDEA 调试详解](https://www.rainsheep.cn/articles/2020/08/03/1596469028910.html)
@@ -28,8 +30,6 @@
 * [Ubuntu安装Chrome教程](https://www.rainsheep.cn/articles/2020/07/20/1595228124635.html)
 * [Ubuntu最小化所有窗口](https://www.rainsheep.cn/articles/2020/07/17/1594959812671.html)
 * [Ubuntu16.04安装微信](https://www.rainsheep.cn/articles/2020/07/17/1594953338426.html)
-* [ubuntu中vim键盘无法正常使用](https://www.rainsheep.cn/articles/2020/07/17/1594948392242.html)
-* [优启通添加软件](https://www.rainsheep.cn/articles/2020/06/23/1592902650423.html)
 
 
 
