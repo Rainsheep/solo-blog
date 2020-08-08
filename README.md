@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [ubuntu 使用 v2ray](https://www.rainsheep.cn/articles/2020/08/08/1596816481299.html)
+* [Ubuntu 中使用 AndroidStudio](https://www.rainsheep.cn/articles/2020/08/06/1596729206134.html)
 * [Ubuntu 安装 JDK](https://www.rainsheep.cn/articles/2020/08/06/1596727913960.html)
 * [修改ubuntu中文文件夹为英文](https://www.rainsheep.cn/articles/2020/08/06/1596727254928.html)
 * [Ubuntu 安装 mysql](https://www.rainsheep.cn/articles/2020/08/06/1596726982689.html)
@@ -28,8 +30,6 @@
 * [添加普通用户到 sudo 组](https://www.rainsheep.cn/articles/2020/07/20/1595241149790.html)
 * [Ubuntu中sudo和su免密码设置](https://www.rainsheep.cn/articles/2020/07/20/1595228564416.html)
 * [Ubuntu安装Chrome教程](https://www.rainsheep.cn/articles/2020/07/20/1595228124635.html)
-* [Ubuntu最小化所有窗口](https://www.rainsheep.cn/articles/2020/07/17/1594959812671.html)
-* [Ubuntu16.04安装微信](https://www.rainsheep.cn/articles/2020/07/17/1594953338426.html)
 
 
 
