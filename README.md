@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [免费图片 API 接口](https://www.rainsheep.cn/articles/2020/08/15/1597466079795.html)
 * [ubuntu 使用 v2ray](https://www.rainsheep.cn/articles/2020/08/08/1596816481299.html)
 * [Ubuntu 中使用 AndroidStudio](https://www.rainsheep.cn/articles/2020/08/06/1596729206134.html)
 * [Ubuntu 安装 JDK](https://www.rainsheep.cn/articles/2020/08/06/1596727913960.html)
@@ -29,7 +30,6 @@
 * [flex布局](https://www.rainsheep.cn/articles/2020/07/26/1595731170747.html)
 * [添加普通用户到 sudo 组](https://www.rainsheep.cn/articles/2020/07/20/1595241149790.html)
 * [Ubuntu中sudo和su免密码设置](https://www.rainsheep.cn/articles/2020/07/20/1595228564416.html)
-* [Ubuntu安装Chrome教程](https://www.rainsheep.cn/articles/2020/07/20/1595228124635.html)
 
 
 
