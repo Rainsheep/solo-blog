@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [docker 安装 tomcat](https://www.rainsheep.cn/articles/2020/08/16/1597553008490.html)
+* [Ubuntu 创建快捷方式](https://www.rainsheep.cn/articles/2020/08/15/1597489882456.html)
+* [ubuntu 安装 navicat](https://www.rainsheep.cn/articles/2020/08/15/1597469098346.html)
 * [免费图片 API 接口](https://www.rainsheep.cn/articles/2020/08/15/1597466079795.html)
 * [ubuntu 使用 v2ray](https://www.rainsheep.cn/articles/2020/08/08/1596816481299.html)
 * [Ubuntu 中使用 AndroidStudio](https://www.rainsheep.cn/articles/2020/08/06/1596729206134.html)
@@ -27,9 +30,6 @@
 * [solo导出静态站点](https://www.rainsheep.cn/articles/2020/07/29/1596030733146.html)
 * [毕业论文](https://www.rainsheep.cn/articles/2020/07/29/1596030101076.html)
 * [github加速教程](https://www.rainsheep.cn/articles/2020/07/29/1596029533938.html)
-* [flex布局](https://www.rainsheep.cn/articles/2020/07/26/1595731170747.html)
-* [添加普通用户到 sudo 组](https://www.rainsheep.cn/articles/2020/07/20/1595241149790.html)
-* [Ubuntu中sudo和su免密码设置](https://www.rainsheep.cn/articles/2020/07/20/1595228564416.html)
 
 
 
