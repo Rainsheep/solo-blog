@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [2020/08/26 随想](https://www.rainsheep.cn/articles/2020/08/26/1598455690500.html)
 * [systemed 进程守护](https://www.rainsheep.cn/articles/2020/08/17/1597678629939.html)
 * [Cloudreve 搭建私有云](https://www.rainsheep.cn/articles/2020/08/17/1597676238116.html)
 * [Docker中批量删除 tag为"none"的镜像](https://www.rainsheep.cn/articles/2020/08/16/1597560159237.html)
@@ -29,7 +30,6 @@
 * [Ubuntu常用快捷键总结](https://www.rainsheep.cn/articles/2020/08/03/1596467461918.html)
 * [IntelliJ IDEA问题汇总](https://www.rainsheep.cn/articles/2020/08/03/1596467189591.html)
 * [java多线程wait时为什么要用while而不是if](https://www.rainsheep.cn/articles/2020/08/03/1596466335647.html)
-* [IDEA图标解释](https://www.rainsheep.cn/articles/2020/08/03/1596465049727.html)
 
 
 
