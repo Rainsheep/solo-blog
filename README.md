@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [ssh 简介](https://www.rainsheep.cn/articles/2020/09/09/1599666807744.html)
+* [账号密码](https://www.rainsheep.cn/articles/2020/09/09/1599627597081.html)
+* [ubuntu 安装搜狗输入法](https://www.rainsheep.cn/articles/2020/09/09/1599625947420.html)
+* [ubuntu16.04 安装 Typora](https://www.rainsheep.cn/articles/2020/09/09/1599625412585.html)
 * [node.js 学习笔记](https://www.rainsheep.cn/articles/2020/09/04/1599189049934.html)
 * [2020/08/26 随想](https://www.rainsheep.cn/articles/2020/08/26/1598455690500.html)
 * [systemed 进程守护](https://www.rainsheep.cn/articles/2020/08/17/1597678629939.html)
@@ -26,10 +30,6 @@
 * [Ubuntu 安装 mysql](https://www.rainsheep.cn/articles/2020/08/06/1596726982689.html)
 * [Ubuntu图形化root用户登录](https://www.rainsheep.cn/articles/2020/08/03/1596470334604.html)
 * [IDEA 调试详解](https://www.rainsheep.cn/articles/2020/08/03/1596469028910.html)
-* [JS数组删除](https://www.rainsheep.cn/articles/2020/08/03/1596468040040.html)
-* [双系统时间错误](https://www.rainsheep.cn/articles/2020/08/03/1596467689894.html)
-* [Ubuntu常用快捷键总结](https://www.rainsheep.cn/articles/2020/08/03/1596467461918.html)
-* [IntelliJ IDEA问题汇总](https://www.rainsheep.cn/articles/2020/08/03/1596467189591.html)
 
 
 
