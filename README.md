@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [miniconda3 ](https://www.rainsheep.cn/articles/2020/09/14/1600052978187.html)
+* [mac 关闭 SIP](https://www.rainsheep.cn/articles/2020/09/13/1600011194833.html)
+* [mac 优化终端](https://www.rainsheep.cn/articles/2020/09/13/1600010916412.html)
 * [ssh 简介](https://www.rainsheep.cn/articles/2020/09/09/1599666807744.html)
 * [账号密码](https://www.rainsheep.cn/articles/2020/09/09/1599627597081.html)
 * [ubuntu 安装搜狗输入法](https://www.rainsheep.cn/articles/2020/09/09/1599625947420.html)
@@ -27,9 +30,6 @@
 * [Ubuntu 中使用 AndroidStudio](https://www.rainsheep.cn/articles/2020/08/06/1596729206134.html)
 * [Ubuntu 安装 JDK](https://www.rainsheep.cn/articles/2020/08/06/1596727913960.html)
 * [修改ubuntu中文文件夹为英文](https://www.rainsheep.cn/articles/2020/08/06/1596727254928.html)
-* [Ubuntu 安装 mysql](https://www.rainsheep.cn/articles/2020/08/06/1596726982689.html)
-* [Ubuntu图形化root用户登录](https://www.rainsheep.cn/articles/2020/08/03/1596470334604.html)
-* [IDEA 调试详解](https://www.rainsheep.cn/articles/2020/08/03/1596469028910.html)
 
 
 
