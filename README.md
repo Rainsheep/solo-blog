@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [mac 安装 brew](https://www.rainsheep.cn/articles/2020/09/14/1600094361638.html)
+* [mac 翻墙](https://www.rainsheep.cn/articles/2020/09/14/1600093332850.html)
+* [ELK 教程](https://www.rainsheep.cn/articles/2020/09/14/1600082932730.html)
+* [用户手册](https://www.rainsheep.cn/articles/2020/09/14/1600063932546.html)
 * [miniconda3 ](https://www.rainsheep.cn/articles/2020/09/14/1600052978187.html)
 * [mac 关闭 SIP](https://www.rainsheep.cn/articles/2020/09/13/1600011194833.html)
 * [mac 优化终端](https://www.rainsheep.cn/articles/2020/09/13/1600010916412.html)
@@ -26,10 +30,6 @@
 * [Ubuntu 创建快捷方式](https://www.rainsheep.cn/articles/2020/08/15/1597489882456.html)
 * [ubuntu 安装 navicat](https://www.rainsheep.cn/articles/2020/08/15/1597469098346.html)
 * [免费图片 API 接口](https://www.rainsheep.cn/articles/2020/08/15/1597466079795.html)
-* [ubuntu 使用 v2ray](https://www.rainsheep.cn/articles/2020/08/08/1596816481299.html)
-* [Ubuntu 中使用 AndroidStudio](https://www.rainsheep.cn/articles/2020/08/06/1596729206134.html)
-* [Ubuntu 安装 JDK](https://www.rainsheep.cn/articles/2020/08/06/1596727913960.html)
-* [修改ubuntu中文文件夹为英文](https://www.rainsheep.cn/articles/2020/08/06/1596727254928.html)
 
 
 
