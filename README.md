@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [brew 换源](https://www.rainsheep.cn/articles/2020/10/29/1603984969117.html)
+* [mac 服务器上传和下载文件](https://www.rainsheep.cn/articles/2020/10/29/1603984236213.html)
 * [docker 笔记](https://www.rainsheep.cn/articles/2020/10/27/1603810061485.html)
 * [mp 服务器](https://www.rainsheep.cn/articles/2020/10/19/1603097140933.html)
 * [米家服务器](https://www.rainsheep.cn/articles/2020/09/25/1601024032584.html)
@@ -28,8 +30,6 @@
 * [ubuntu 安装搜狗输入法](https://www.rainsheep.cn/articles/2020/09/09/1599625947420.html)
 * [ubuntu16.04 安装 Typora](https://www.rainsheep.cn/articles/2020/09/09/1599625412585.html)
 * [node.js 学习笔记](https://www.rainsheep.cn/articles/2020/09/04/1599189049934.html)
-* [2020/08/26 随想](https://www.rainsheep.cn/articles/2020/08/26/1598455690500.html)
-* [systemed 进程守护](https://www.rainsheep.cn/articles/2020/08/17/1597678629939.html)
 
 
 
