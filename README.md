@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [brew 常用命令](https://www.rainsheep.cn/articles/2020/10/31/1604074614109.html)
 * [brew 换源](https://www.rainsheep.cn/articles/2020/10/29/1603984969117.html)
 * [mac 服务器上传和下载文件](https://www.rainsheep.cn/articles/2020/10/29/1603984236213.html)
 * [docker 笔记](https://www.rainsheep.cn/articles/2020/10/27/1603810061485.html)
@@ -29,7 +30,6 @@
 * [账号密码](https://www.rainsheep.cn/articles/2020/09/09/1599627597081.html)
 * [ubuntu 安装搜狗输入法](https://www.rainsheep.cn/articles/2020/09/09/1599625947420.html)
 * [ubuntu16.04 安装 Typora](https://www.rainsheep.cn/articles/2020/09/09/1599625412585.html)
-* [node.js 学习笔记](https://www.rainsheep.cn/articles/2020/09/04/1599189049934.html)
 
 
 
