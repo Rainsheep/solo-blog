@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [java 日志框架对比](https://www.rainsheep.cn/articles/2020/11/01/1604161122197.html)
 * [brew 常用命令](https://www.rainsheep.cn/articles/2020/10/31/1604074614109.html)
 * [brew 换源](https://www.rainsheep.cn/articles/2020/10/29/1603984969117.html)
 * [mac 服务器上传和下载文件](https://www.rainsheep.cn/articles/2020/10/29/1603984236213.html)
@@ -29,7 +30,6 @@
 * [ssh 简介](https://www.rainsheep.cn/articles/2020/09/09/1599666807744.html)
 * [账号密码](https://www.rainsheep.cn/articles/2020/09/09/1599627597081.html)
 * [ubuntu 安装搜狗输入法](https://www.rainsheep.cn/articles/2020/09/09/1599625947420.html)
-* [ubuntu16.04 安装 Typora](https://www.rainsheep.cn/articles/2020/09/09/1599625412585.html)
 
 
 
