@@ -10,12 +10,14 @@
 
 ### 最新
 
+* [gerrit 提交规范](https://www.rainsheep.cn/articles/2020/11/03/1604405375527.html)
+* [resin 记录](https://www.rainsheep.cn/articles/2020/11/02/1604323139963.html)
 * [java 日志框架对比](https://www.rainsheep.cn/articles/2020/11/01/1604161122197.html)
 * [brew 常用命令](https://www.rainsheep.cn/articles/2020/10/31/1604074614109.html)
 * [brew 换源](https://www.rainsheep.cn/articles/2020/10/29/1603984969117.html)
 * [mac 服务器上传和下载文件](https://www.rainsheep.cn/articles/2020/10/29/1603984236213.html)
 * [docker 笔记](https://www.rainsheep.cn/articles/2020/10/27/1603810061485.html)
-* [mp 服务器](https://www.rainsheep.cn/articles/2020/10/19/1603097140933.html)
+* [mp](https://www.rainsheep.cn/articles/2020/10/19/1603097140933.html)
 * [米家服务器](https://www.rainsheep.cn/articles/2020/09/25/1601024032584.html)
 * [logback 配置文件](https://www.rainsheep.cn/articles/2020/09/25/1601001003251.html)
 * [Windows 和 Ubuntu 双系统](https://www.rainsheep.cn/articles/2020/09/17/1600275313257.html)
@@ -28,8 +30,6 @@
 * [mac 关闭 SIP](https://www.rainsheep.cn/articles/2020/09/13/1600011194833.html)
 * [mac 优化终端](https://www.rainsheep.cn/articles/2020/09/13/1600010916412.html)
 * [ssh 简介](https://www.rainsheep.cn/articles/2020/09/09/1599666807744.html)
-* [账号密码](https://www.rainsheep.cn/articles/2020/09/09/1599627597081.html)
-* [ubuntu 安装搜狗输入法](https://www.rainsheep.cn/articles/2020/09/09/1599625947420.html)
 
 
 
