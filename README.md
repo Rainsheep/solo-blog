@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [promise 记录](https://www.rainsheep.cn/articles/2020/11/06/1604663123888.html)
+* [js 原型](https://www.rainsheep.cn/articles/2020/11/06/1604649045374.html)
 * [gerrit 提交规范](https://www.rainsheep.cn/articles/2020/11/03/1604405375527.html)
 * [resin 记录](https://www.rainsheep.cn/articles/2020/11/02/1604323139963.html)
 * [java 日志框架对比](https://www.rainsheep.cn/articles/2020/11/01/1604161122197.html)
@@ -28,8 +30,6 @@
 * [用户手册](https://www.rainsheep.cn/articles/2020/09/14/1600063932546.html)
 * [miniconda3 ](https://www.rainsheep.cn/articles/2020/09/14/1600052978187.html)
 * [mac 关闭 SIP](https://www.rainsheep.cn/articles/2020/09/13/1600011194833.html)
-* [mac 优化终端](https://www.rainsheep.cn/articles/2020/09/13/1600010916412.html)
-* [ssh 简介](https://www.rainsheep.cn/articles/2020/09/09/1599666807744.html)
 
 
 
