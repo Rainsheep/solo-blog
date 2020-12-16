@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [editorconfig](https://www.rainsheep.cn/articles/2020/12/16/1608126816359.html)
 * [axios](https://www.rainsheep.cn/articles/2020/12/13/1607868661662.html)
 * [Vue  学习笔记](https://www.rainsheep.cn/articles/2020/12/04/1607012351725.html)
 * [基数排序](https://www.rainsheep.cn/articles/2020/11/26/1606359266162.html)
@@ -29,7 +30,6 @@
 * [docker 笔记](https://www.rainsheep.cn/articles/2020/10/27/1603810061485.html)
 * [mp](https://www.rainsheep.cn/articles/2020/10/19/1603097140933.html)
 * [米家服务器](https://www.rainsheep.cn/articles/2020/09/25/1601024032584.html)
-* [logback 配置文件](https://www.rainsheep.cn/articles/2020/09/25/1601001003251.html)
 
 
 
