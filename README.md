@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [防抖函数和节流函数](https://www.rainsheep.cn/articles/2020/12/20/1608435172855.html)
+* [BetterScroll](https://www.rainsheep.cn/articles/2020/12/20/1608399914825.html)
 * [editorconfig](https://www.rainsheep.cn/articles/2020/12/16/1608126816359.html)
 * [axios](https://www.rainsheep.cn/articles/2020/12/13/1607868661662.html)
 * [Vue  学习笔记](https://www.rainsheep.cn/articles/2020/12/04/1607012351725.html)
@@ -28,8 +30,6 @@
 * [brew 换源](https://www.rainsheep.cn/articles/2020/10/29/1603984969117.html)
 * [mac 服务器上传和下载文件](https://www.rainsheep.cn/articles/2020/10/29/1603984236213.html)
 * [docker 笔记](https://www.rainsheep.cn/articles/2020/10/27/1603810061485.html)
-* [mp](https://www.rainsheep.cn/articles/2020/10/19/1603097140933.html)
-* [米家服务器](https://www.rainsheep.cn/articles/2020/09/25/1601024032584.html)
 
 
 
