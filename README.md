@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [TypeScript](https://www.rainsheep.cn/articles/2020/12/27/1609063642896.html)
 * [Sass](https://www.rainsheep.cn/articles/2020/12/26/1608963302015.html)
 * [防抖函数和节流函数](https://www.rainsheep.cn/articles/2020/12/20/1608435172855.html)
 * [BetterScroll](https://www.rainsheep.cn/articles/2020/12/20/1608399914825.html)
@@ -29,7 +30,6 @@
 * [java 日志框架对比](https://www.rainsheep.cn/articles/2020/11/01/1604161122197.html)
 * [brew 常用命令](https://www.rainsheep.cn/articles/2020/10/31/1604074614109.html)
 * [brew 换源](https://www.rainsheep.cn/articles/2020/10/29/1603984969117.html)
-* [mac 服务器上传和下载文件](https://www.rainsheep.cn/articles/2020/10/29/1603984236213.html)
 
 
 
