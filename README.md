@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Oracle](https://www.rainsheep.cn/articles/2021/01/03/1609663992314.html)
 * [uniapp](https://www.rainsheep.cn/articles/2020/12/29/1609240734107.html)
 * [TypeScript](https://www.rainsheep.cn/articles/2020/12/27/1609063642896.html)
 * [Sass](https://www.rainsheep.cn/articles/2020/12/26/1608963302015.html)
@@ -29,7 +30,6 @@
 * [gerrit 提交规范](https://www.rainsheep.cn/articles/2020/11/03/1604405375527.html)
 * [resin 记录](https://www.rainsheep.cn/articles/2020/11/02/1604323139963.html)
 * [java 日志框架对比](https://www.rainsheep.cn/articles/2020/11/01/1604161122197.html)
-* [brew 常用命令](https://www.rainsheep.cn/articles/2020/10/31/1604074614109.html)
 
 
 
