@@ -1,4 +1,4 @@
-<p align="center"><img alt="雨羊的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="雨羊的个人博客" src="https://b3logfile.com/file/2021/01/4087334-f4f28b3b.png"></p><h2 align="center">
 雨羊的个人博客
 </h2>
 
