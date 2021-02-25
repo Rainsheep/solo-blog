@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [android xml 序列化](https://www.rainsheep.cn/articles/2021/02/25/1614188458515.html)
+* [SharedPreferences](https://www.rainsheep.cn/articles/2021/02/25/1614187646287.html)
+* [android 简单登录案例](https://www.rainsheep.cn/articles/2021/02/25/1614186033356.html)
 * [android 系统路径](https://www.rainsheep.cn/articles/2021/02/24/1614146909052.html)
 * [android 控件](https://www.rainsheep.cn/articles/2021/02/23/1614079177741.html)
 * [android 日志](https://www.rainsheep.cn/articles/2021/02/23/1614079025572.html)
@@ -27,9 +30,6 @@
 * [Spring Security](https://www.rainsheep.cn/articles/2021/01/22/1611295581301.html)
 * [build.gradle 配置](https://www.rainsheep.cn/articles/2021/01/22/1611294937984.html)
 * [Android 学习笔记](https://www.rainsheep.cn/articles/2021/01/06/1609930763440.html)
-* [Oracle](https://www.rainsheep.cn/articles/2021/01/03/1609663992314.html)
-* [uniapp](https://www.rainsheep.cn/articles/2020/12/29/1609240734107.html)
-* [TypeScript](https://www.rainsheep.cn/articles/2020/12/27/1609063642896.html)
 
 
 
