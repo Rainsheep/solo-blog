@@ -14,7 +14,7 @@
 * [MediaPlayer](https://www.rainsheep.cn/articles/2021/03/23/1616481808245.html)
 * [Retrofit](https://www.rainsheep.cn/articles/2021/03/08/1615173219101.html)
 * [Adapter](https://www.rainsheep.cn/articles/2021/03/04/1614787552864.html)
-* [sqllite](https://www.rainsheep.cn/articles/2021/03/03/1614706405706.html)
+* [sqlite](https://www.rainsheep.cn/articles/2021/03/03/1614706405706.html)
 * [android xml 序列化](https://www.rainsheep.cn/articles/2021/02/25/1614188458515.html)
 * [SharedPreferences](https://www.rainsheep.cn/articles/2021/02/25/1614187646287.html)
 * [android 简单登录案例](https://www.rainsheep.cn/articles/2021/02/25/1614186033356.html)
