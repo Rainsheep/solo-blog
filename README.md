@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [android 通知](https://www.rainsheep.cn/articles/2021/04/12/1618227970339.html)
 * [ContentProvider](https://www.rainsheep.cn/articles/2021/04/08/1617868886760.html)
 * [android 权限](https://www.rainsheep.cn/articles/2021/04/08/1617865314380.html)
 * [android 文件存储](https://www.rainsheep.cn/articles/2021/04/08/1617861415907.html)
@@ -29,7 +30,6 @@
 * [android 控件](https://www.rainsheep.cn/articles/2021/02/23/1614079177741.html)
 * [android 日志](https://www.rainsheep.cn/articles/2021/02/23/1614079025572.html)
 * [android 布局](https://www.rainsheep.cn/articles/2021/02/23/1614078827110.html)
-* [android 点击事件](https://www.rainsheep.cn/articles/2021/02/23/1614078664162.html)
 
 
 
