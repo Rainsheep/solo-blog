@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [android 知识点总结](https://www.rainsheep.cn/articles/2021/04/20/1618908340499.html)
 * [android 服务](https://www.rainsheep.cn/articles/2021/04/19/1618819130348.html)
 * [情感篇](https://www.rainsheep.cn/articles/2021/04/19/1618767418407.html)
 * [安卓异步任务](https://www.rainsheep.cn/articles/2021/04/15/1618476521805.html)
@@ -29,7 +30,6 @@
 * [Retrofit](https://www.rainsheep.cn/articles/2021/03/08/1615173219101.html)
 * [Adapter](https://www.rainsheep.cn/articles/2021/03/04/1614787552864.html)
 * [sqlite](https://www.rainsheep.cn/articles/2021/03/03/1614706405706.html)
-* [android xml 序列化](https://www.rainsheep.cn/articles/2021/02/25/1614188458515.html)
 
 
 
