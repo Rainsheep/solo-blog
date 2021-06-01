@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [修改 class 变量值](https://www.rainsheep.cn/articles/2021/06/01/1622533169881.html)
 * [安全感](https://www.rainsheep.cn/articles/2021/04/28/1619588350099.html)
 * [android 知识点总结](https://www.rainsheep.cn/articles/2021/04/20/1618908340499.html)
 * [android 服务](https://www.rainsheep.cn/articles/2021/04/19/1618819130348.html)
@@ -29,7 +30,6 @@
 * [故事的结尾](https://www.rainsheep.cn/articles/2021/03/24/1616597819508.html)
 * [MediaPlayer](https://www.rainsheep.cn/articles/2021/03/23/1616481808245.html)
 * [Retrofit](https://www.rainsheep.cn/articles/2021/03/08/1615173219101.html)
-* [Adapter](https://www.rainsheep.cn/articles/2021/03/04/1614787552864.html)
 
 
 
