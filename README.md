@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [小米电视刷机](https://www.rainsheep.cn/articles/2021/06/09/1623214595322.html)
 * [修改 class 变量值](https://www.rainsheep.cn/articles/2021/06/01/1622533169881.html)
 * [安全感](https://www.rainsheep.cn/articles/2021/04/28/1619588350099.html)
 * [android 知识点总结](https://www.rainsheep.cn/articles/2021/04/20/1618908340499.html)
@@ -29,7 +30,6 @@
 * [Activity](https://www.rainsheep.cn/articles/2021/03/31/1617174515693.html)
 * [故事的结尾](https://www.rainsheep.cn/articles/2021/03/24/1616597819508.html)
 * [MediaPlayer](https://www.rainsheep.cn/articles/2021/03/23/1616481808245.html)
-* [Retrofit](https://www.rainsheep.cn/articles/2021/03/08/1615173219101.html)
 
 
 
