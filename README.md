@@ -10,6 +10,13 @@
 
 ### 最新
 
+* [MediaSession  框架](https://www.rainsheep.cn/articles/2021/06/21/1624287048503.html)
+* [volatile 关键字](https://www.rainsheep.cn/articles/2021/06/21/1624277949027.html)
+* [LayoutInflater.inflate() 方法参数详解](https://www.rainsheep.cn/articles/2021/06/21/1624274750577.html)
+* [android Build 类](https://www.rainsheep.cn/articles/2021/06/21/1624268822420.html)
+* [Context](https://www.rainsheep.cn/articles/2021/06/21/1624267955078.html)
+* [类锁和对象锁](https://www.rainsheep.cn/articles/2021/06/21/1624266533934.html)
+* [单例模式](https://www.rainsheep.cn/articles/2021/06/21/1624256890076.html)
 * [小米电视刷机](https://www.rainsheep.cn/articles/2021/06/09/1623214595322.html)
 * [修改 class 变量值](https://www.rainsheep.cn/articles/2021/06/01/1622533169881.html)
 * [安全感](https://www.rainsheep.cn/articles/2021/04/28/1619588350099.html)
@@ -23,13 +30,6 @@
 * [android 通知](https://www.rainsheep.cn/articles/2021/04/12/1618227970339.html)
 * [ContentProvider](https://www.rainsheep.cn/articles/2021/04/08/1617868886760.html)
 * [android 权限](https://www.rainsheep.cn/articles/2021/04/08/1617865314380.html)
-* [android 文件存储](https://www.rainsheep.cn/articles/2021/04/08/1617861415907.html)
-* [广播](https://www.rainsheep.cn/articles/2021/04/07/1617796517017.html)
-* [Fragment](https://www.rainsheep.cn/articles/2021/04/07/1617792627577.html)
-* [9-patch](https://www.rainsheep.cn/articles/2021/04/01/1617250240560.html)
-* [Activity](https://www.rainsheep.cn/articles/2021/03/31/1617174515693.html)
-* [故事的结尾](https://www.rainsheep.cn/articles/2021/03/24/1616597819508.html)
-* [MediaPlayer](https://www.rainsheep.cn/articles/2021/03/23/1616481808245.html)
 
 
 
