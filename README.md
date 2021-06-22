@@ -10,6 +10,12 @@
 
 ### 最新
 
+* [RxJava](https://www.rainsheep.cn/articles/2021/06/22/1624351544028.html)
+* [IntentService](https://www.rainsheep.cn/articles/2021/06/22/1624342963572.html)
+* [HandlerThread](https://www.rainsheep.cn/articles/2021/06/22/1624341503268.html)
+* [Handler 详解](https://www.rainsheep.cn/articles/2021/06/22/1624339748691.html)
+* [android AsyncTask](https://www.rainsheep.cn/articles/2021/06/22/1624332078360.html)
+* [全排列 java 实现](https://www.rainsheep.cn/articles/2021/06/22/1624331430103.html)
 * [MediaSession  框架](https://www.rainsheep.cn/articles/2021/06/21/1624287048503.html)
 * [volatile 关键字](https://www.rainsheep.cn/articles/2021/06/21/1624277949027.html)
 * [LayoutInflater.inflate() 方法参数详解](https://www.rainsheep.cn/articles/2021/06/21/1624274750577.html)
@@ -24,12 +30,6 @@
 * [android 服务](https://www.rainsheep.cn/articles/2021/04/19/1618819130348.html)
 * [情感篇](https://www.rainsheep.cn/articles/2021/04/19/1618767418407.html)
 * [安卓异步任务](https://www.rainsheep.cn/articles/2021/04/15/1618476521805.html)
-* [android 网络](https://www.rainsheep.cn/articles/2021/04/13/1618313917570.html)
-* [WebView 的简单使用](https://www.rainsheep.cn/articles/2021/04/13/1618296000786.html)
-* [android 拍照和选取照片](https://www.rainsheep.cn/articles/2021/04/13/1618294720036.html)
-* [android 通知](https://www.rainsheep.cn/articles/2021/04/12/1618227970339.html)
-* [ContentProvider](https://www.rainsheep.cn/articles/2021/04/08/1617868886760.html)
-* [android 权限](https://www.rainsheep.cn/articles/2021/04/08/1617865314380.html)
 
 
 
