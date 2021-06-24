@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [android 屏幕适配方案](https://www.rainsheep.cn/articles/2021/06/24/1624547896298.html)
 * [RxJava](https://www.rainsheep.cn/articles/2021/06/22/1624351544028.html)
 * [IntentService](https://www.rainsheep.cn/articles/2021/06/22/1624342963572.html)
 * [HandlerThread](https://www.rainsheep.cn/articles/2021/06/22/1624341503268.html)
@@ -29,7 +30,6 @@
 * [android 知识点总结](https://www.rainsheep.cn/articles/2021/04/20/1618908340499.html)
 * [android 服务](https://www.rainsheep.cn/articles/2021/04/19/1618819130348.html)
 * [情感篇](https://www.rainsheep.cn/articles/2021/04/19/1618767418407.html)
-* [安卓异步任务](https://www.rainsheep.cn/articles/2021/04/15/1618476521805.html)
 
 
 
