@@ -10,6 +10,16 @@
 
 ### 最新
 
+* [android StateListDrawable](https://www.rainsheep.cn/articles/2021/06/25/1624632290144.html)
+* [android levelList](https://www.rainsheep.cn/articles/2021/06/25/1624629529215.html)
+* [android shape](https://www.rainsheep.cn/articles/2021/06/25/1624628926726.html)
+* [android 开源库](https://www.rainsheep.cn/articles/2021/06/25/1624621194815.html)
+* [android 属性动画](https://www.rainsheep.cn/articles/2021/06/25/1624619772879.html)
+* [android 帧动画和补间动画](https://www.rainsheep.cn/articles/2021/06/25/1624606678688.html)
+* [android 子控件进场动画](https://www.rainsheep.cn/articles/2021/06/25/1624603433858.html)
+* [activity 转场动画](https://www.rainsheep.cn/articles/2021/06/25/1624602649299.html)
+* [android style 详解](https://www.rainsheep.cn/articles/2021/06/25/1624602093778.html)
+* [Drawable](https://www.rainsheep.cn/articles/2021/06/25/1624593387622.html)
 * [android 屏幕适配方案](https://www.rainsheep.cn/articles/2021/06/24/1624547896298.html)
 * [RxJava](https://www.rainsheep.cn/articles/2021/06/22/1624351544028.html)
 * [IntentService](https://www.rainsheep.cn/articles/2021/06/22/1624342963572.html)
@@ -20,16 +30,6 @@
 * [MediaSession  框架](https://www.rainsheep.cn/articles/2021/06/21/1624287048503.html)
 * [volatile 关键字](https://www.rainsheep.cn/articles/2021/06/21/1624277949027.html)
 * [LayoutInflater.inflate() 方法参数详解](https://www.rainsheep.cn/articles/2021/06/21/1624274750577.html)
-* [android Build 类](https://www.rainsheep.cn/articles/2021/06/21/1624268822420.html)
-* [Context](https://www.rainsheep.cn/articles/2021/06/21/1624267955078.html)
-* [类锁和对象锁](https://www.rainsheep.cn/articles/2021/06/21/1624266533934.html)
-* [单例模式](https://www.rainsheep.cn/articles/2021/06/21/1624256890076.html)
-* [小米电视刷机](https://www.rainsheep.cn/articles/2021/06/09/1623214595322.html)
-* [修改 class 变量值](https://www.rainsheep.cn/articles/2021/06/01/1622533169881.html)
-* [安全感](https://www.rainsheep.cn/articles/2021/04/28/1619588350099.html)
-* [android 知识点总结](https://www.rainsheep.cn/articles/2021/04/20/1618908340499.html)
-* [android 服务](https://www.rainsheep.cn/articles/2021/04/19/1618819130348.html)
-* [情感篇](https://www.rainsheep.cn/articles/2021/04/19/1618767418407.html)
 
 
 
