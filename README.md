@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [merge 和 include](https://www.rainsheep.cn/articles/2021/06/26/1624714133592.html)
+* [LayerDrawable](https://www.rainsheep.cn/articles/2021/06/26/1624684085900.html)
+* [android 焦点](https://www.rainsheep.cn/articles/2021/06/26/1624683516526.html)
 * [android StateListDrawable](https://www.rainsheep.cn/articles/2021/06/25/1624632290144.html)
 * [android levelList](https://www.rainsheep.cn/articles/2021/06/25/1624629529215.html)
 * [android shape](https://www.rainsheep.cn/articles/2021/06/25/1624628926726.html)
@@ -27,9 +30,6 @@
 * [Handler 详解](https://www.rainsheep.cn/articles/2021/06/22/1624339748691.html)
 * [android AsyncTask](https://www.rainsheep.cn/articles/2021/06/22/1624332078360.html)
 * [全排列 java 实现](https://www.rainsheep.cn/articles/2021/06/22/1624331430103.html)
-* [MediaSession  框架](https://www.rainsheep.cn/articles/2021/06/21/1624287048503.html)
-* [volatile 关键字](https://www.rainsheep.cn/articles/2021/06/21/1624277949027.html)
-* [LayoutInflater.inflate() 方法参数详解](https://www.rainsheep.cn/articles/2021/06/21/1624274750577.html)
 
 
 
