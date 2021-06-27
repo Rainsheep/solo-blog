@@ -10,6 +10,12 @@
 
 ### 最新
 
+* [android 视图切换](https://www.rainsheep.cn/articles/2021/06/28/1624810008996.html)
+* [触摸反馈动画](https://www.rainsheep.cn/articles/2021/06/27/1624777780737.html)
+* [ClipDrawable](https://www.rainsheep.cn/articles/2021/06/27/1624765095893.html)
+* [InsetDrawable](https://www.rainsheep.cn/articles/2021/06/27/1624764407357.html)
+* [BitmapDrawable](https://www.rainsheep.cn/articles/2021/06/27/1624763774994.html)
+* [揭露动画](https://www.rainsheep.cn/articles/2021/06/27/1624726009879.html)
 * [merge 和 include](https://www.rainsheep.cn/articles/2021/06/26/1624714133592.html)
 * [LayerDrawable](https://www.rainsheep.cn/articles/2021/06/26/1624684085900.html)
 * [android 焦点](https://www.rainsheep.cn/articles/2021/06/26/1624683516526.html)
@@ -24,12 +30,6 @@
 * [android style 详解](https://www.rainsheep.cn/articles/2021/06/25/1624602093778.html)
 * [Drawable](https://www.rainsheep.cn/articles/2021/06/25/1624593387622.html)
 * [android 屏幕适配方案](https://www.rainsheep.cn/articles/2021/06/24/1624547896298.html)
-* [RxJava](https://www.rainsheep.cn/articles/2021/06/22/1624351544028.html)
-* [IntentService](https://www.rainsheep.cn/articles/2021/06/22/1624342963572.html)
-* [HandlerThread](https://www.rainsheep.cn/articles/2021/06/22/1624341503268.html)
-* [Handler 详解](https://www.rainsheep.cn/articles/2021/06/22/1624339748691.html)
-* [android AsyncTask](https://www.rainsheep.cn/articles/2021/06/22/1624332078360.html)
-* [全排列 java 实现](https://www.rainsheep.cn/articles/2021/06/22/1624331430103.html)
 
 
 
